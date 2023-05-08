@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aslı Cengiz.</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-<img img align="right" alt="Coding" width="400" src="https://images-ext-1.discordapp.net/external/12aZGiXszKaIVfNd9rfOUSWdeAbjj5UPO0tsE6amO2Y/%3Fresize%3D640%3A%2A/https/hips.hearstapps.com/esquireuk.cdnds.net/16/36/1473330033-giphy.gif " alt="aslıcengiz" /
+<img align="right" alt="Coding" width="400" src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/36/1473330033-giphy.gif?resize=640:* " alt="aslıcengiz" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliceng&label=Profile%20views&color=0e75b6&style=flat" alt="asliceng" /> </p>
 
