@@ -1,6 +1,10 @@
+![logo](https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915)
+
 <h1 align="center">Hi 👋, I'm Aslı Cengiz.</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
-<img img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/covers/images/051/384/574/large/shane-lee-littlewood-shane-lee-littlewood-asset-49.jpg?1657151915" alt="aslicengiz" />
+
+<img img align="right" alt="Coding" width="400" src="https://libraries.indiana.edu/sites/default/files/mario.gif " alt="aslıcengiz" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliceng&label=Profile%20views&color=0e75b6&style=flat" alt="asliceng" /> </p>
 
 - 🔭 I’m currently working on **Stormlight Archive, CEBO Game**
