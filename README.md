@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliceng&label=Profile%20views&color=0e75b6&style=flat" alt="asliceng" /> </p>
 
-- 🔭 I’m currently working on **Stormlight Archive, CEBO Game, GrupVitaminGame**
+- 🔭 I’m currently working on **Stormlight Archive, CEBO Game, Grup Vitamin Game**
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
 
