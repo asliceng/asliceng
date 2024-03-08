@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **aslicengiz.dev@gmail.com**
 
+- 🎮 Here is my itch.io profile **https://aslic.itch.io/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aslı-cengiz-4807b8268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslı-cengiz-4807b8268" height="30" width="40" /></a>
