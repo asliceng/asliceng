@@ -7,15 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliceng&label=Profile%20views&color=0e75b6&style=flat" alt="asliceng" /> </p>
 
-- 🔭 I’m currently working on **Lumin**
+- 🔭 I’m currently working on **ZomBFF**
 
-- 🌱 I’m currently learning **Unity, Unreal Engine**
+- 🌱 I’m currently learning **Unreal Engine, Unity**
 
-- 💬 Ask me about **Unity, Unreal Engine**
+- 💬 Ask me about **Unreal Engine, Unity**
 
 - 📫 How to reach me **aslicengiz.dev@gmail.com**
 
 - 🎮 Here is my itch.io profile **https://aslic.itch.io/**
+
+- 💻 Here is my LnkedIn profile **https://www.linkedin.com/in/asl%C4%B1-cengiz-4807b8268/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
