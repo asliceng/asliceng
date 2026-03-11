@@ -29,6 +29,6 @@
 <p align="left"> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/343-3436652_ue-logo-unreal-engine-icon.png" alt="unreal" width="60" height="60"/> </a> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="60"/> </a></p>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="unity" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>  
   
